@@ -13,11 +13,16 @@ This project will let user to create bank online account, user can deposit /with
 
 
 # Features:
-![image](https://user-images.githubusercontent.com/103148961/204709894-6c312114-0ed4-4e95-8aee-cb3d25905fe1.png| width=100){height="36px" width="36px"}
+![image](https://user-images.githubusercontent.com/103148961/204711153-0d044022-cf92-4ab8-bf4c-9fa2ede89a9f.png)
 
+- Create Account: you can create multiple accounts with password 
+- Login: Login with password 
+- Deposit: Deposit money to individual email account 
+- Withdrawa: withdraw  money to individual email account
+- Balance: Type individual email to check balance 
+- Alldata: To review all the data.
 
-
-# [LICENSE](https://github.com/CBP2022/Real-Time-Bus-Tracking/blob/master/LICENSE)
-![image](https://user-images.githubusercontent.com/92131037/170177019-1b6ef05f-ae92-4c0c-b948-b04cb8c7f6ea.png)
+# [LICENSE](https://github.com/CBP2022/Banking-Application/blob/main/LICENSE)
+![image](https://user-images.githubusercontent.com/103148961/204712187-2e56bf42-d211-406e-a7c0-94efbb23be7b.png)
 
 # please email baopengc@yahoo.com for more information.
